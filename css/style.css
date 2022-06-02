@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(21, 21, 21);
+}
+#imgagem{
+    margin: 0; 
+}
+#imagem img{
+    margin-top: 10px;
+}
+h2{
+    color:aliceblue;
+    font-family: 'Yusei Magic', sans-serif;
+    padding-top: 20px;
+}
+p{
+    color:aliceblue;
+}
+
+a{
+    text-decoration: none;
+}
+
